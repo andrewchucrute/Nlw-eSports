@@ -1,4 +1,4 @@
-# Nlw-eSports
+# NLW-eSports
 Projeto NLW da Rocketseat
 
 ## 🛠️ Ferramentas 🛠️
